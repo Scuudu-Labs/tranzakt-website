@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tranzakt-website/static/css/main.9392d191.css",
+    "main.js": "/tranzakt-website/static/js/main.5e580f9f.js",
+    "static/media/MessageOutlined.svg": "/tranzakt-website/static/media/MessageOutlined.c49ba98c8c9c790067cf8237fe961b68.svg",
+    "index.html": "/tranzakt-website/index.html",
+    "main.9392d191.css.map": "/tranzakt-website/static/css/main.9392d191.css.map",
+    "main.5e580f9f.js.map": "/tranzakt-website/static/js/main.5e580f9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9392d191.css",
+    "static/js/main.5e580f9f.js"
+  ]
+}
